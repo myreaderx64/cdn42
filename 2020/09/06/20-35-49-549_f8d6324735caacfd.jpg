@@ -1,0 +1,1522 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8">
+    <title>TheOpenForce.com</title>
+
+    <meta name="generator" content="//www.typepad.com/" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="keywords" content="Open Source, MySQL, Disruption, Linux, Cloud, Software as a Service, SaaS, iPad" />
+        <meta name="description" content="The Power of Open Source for Business" />
+
+        <link rel="stylesheet" href="https://static.typepad.com/.shared/themes/common/bootstrap/css/bootstrap.min.css">
+        <link rel="stylesheet" href="https://static.typepad.com/.shared/css/responsive-banner.css">
+
+    <link rel="stylesheet" href="https://static.typepad.com/.shared/themes/common/bxslider.css">
+    <link rel="stylesheet" href="https://static.typepad.com/.shared/css/widgets.css">
+    <!-- Custom styles for this template -->
+    <link rel="stylesheet" href="https://www.theopenforce.com/styles.css?v=6" type="text/css" media="screen" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+
+    <link rel="canonical" href="https://www.theopenforce.com/" />
+
+        <link rel="alternate" type="application/atom+xml" title="Posts on 'TheOpenForce.com' (Atom)" href="https://www.theopenforce.com/atom.xml" />
+        <link rel="alternate" type="application/rss+xml" title="Posts on 'TheOpenForce.com' (RSS 1.0)" href="https://www.theopenforce.com/index.rdf" />
+        <link rel="alternate" type="application/rss+xml" title="Posts on 'TheOpenForce.com' (RSS 2.0)" href="https://www.theopenforce.com/rss.xml" />
+
+        <script type="text/javascript">
+                var TPApp = {};
+                TPApp.app_uri = "//www.typepad.com/";
+        </script>
+        <script type="text/javascript" src="/.shared/js/yui/yahoo-dom-event.js,/js/app/thumbnail-gallery-min.js,/js/app/flyouts-min.js"></script>
+
+
+
+
+
+
+<script type="text/javascript">
+  WebFontConfig = {
+    google: { families: [ 'Oxygen','Oswald' ] }
+  };
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+      '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })(); </script>
+
+
+<meta property="og:title" content="TheOpenForce.com" />
+<meta property="og:site_name" content="TheOpenForce.com" />
+<meta property="og:type" content="blog" />
+<meta property="og:url" content="https://www.theopenforce.com/" />
+<meta property="og:description" content="The Power of Open Source for Business" />
+<meta property="fb:admins" content="" />
+<meta property="og:image" content="https://up4.typepad.com/6a00d83452e46469e2010535d8b125970b-220si" />
+
+
+
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-225723-36', 'auto', {'name': 'Typepad'}, {'allowLinker': true} );  // Separate tracker for Typepad.
+ga('Typepad.require', 'linker');
+ga('Typepad.linker:autoLink', ['none']);
+ga('Typepad.set', 'dimension1', '6a00d83452e46469e200d8341d81d253ef');
+ga('Typepad.set', 'dimension2', 'index');
+ga('Typepad.send', 'pageview');
+</script>
+
+
+
+
+</head>
+<body id="top" class="two-column-right index fullposts">
+
+<div id="bannav-wrap">
+
+
+                <div id="st-container" class="st-container">
+			<nav class="st-menu st-effect-1 font-nav" id="menu-1">
+                                <button class="close-side-menu"><i class="fas fa-times"></i></button>
+                                <ul>
+
+        <li class="icon icon-data"><a href="https://www.theopenforce.com/">
+        <i class="fas fa-home"></i>
+        
+        
+        
+        Home</a></li>
+        <li class="icon icon-data"><a href="https://www.theopenforce.com/archives.html">
+        
+        <i class="fas fa-archive"></i>
+        
+        
+        Archives</a></li>
+        <li class="icon icon-data"><a href="http://profile.typepad.com/zurlocker">
+        
+        
+        <i class="fas fa-user"></i>
+        
+        Profile</a></li>
+        <li class="icon icon-data"><a href="https://www.theopenforce.com/atom.xml">
+        
+        
+        
+        <i class="fas fa-rss"></i>
+        Subscribe</a></li>
+
+                                </ul>
+			</nav>
+                </div>
+
+
+
+   
+        <header class="main">
+            <div id="banner-image-container" class="container banner-text-container" style="border:0;">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="content">
+
+                            <div id="banner">
+
+                               <div id="banner-title-wrapper"><span id="banner-title"><h1><a href="https://www.theopenforce.com/">TheOpenForce.com</a></h1></span></div>
+                               <div id="banner-desc-wrapper"><span id="banner-desc"><h2>The Power of Open Source for Business</h2></span></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+   
+            <div id="icons-container" class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="content">
+
+
+<div class="type-text" style="display:none;" id="st-trigger-effects">
+                            <button data-effect="st-effect-1" class="menu-icon open-side-menu">
+                                <i class="fas fa-bars"></i>
+                            </button>
+</div>
+
+
+
+
+<!--navbar-->
+
+
+      <div class="navtext font-nav">
+
+      
+
+        <a class="nav-link" href="https://www.theopenforce.com/">Home</a>
+        <a class="nav-link" href="https://www.theopenforce.com/archives.html">Archives</a>
+        <a class="nav-link" href="http://profile.typepad.com/zurlocker">Profile</a>
+        <a class="nav-link" href="https://www.theopenforce.com/atom.xml">Subscribe</a>
+   </div>
+ 
+
+
+
+                        <div id="social" style="display:none;">
+                            <ul>
+
+
+
+                            </ul>
+                        </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+
+
+</div>
+
+    <main id="post-container">
+
+
+
+
+
+        <div class="container postarea">
+            <div class="row pagebody">
+                <div class="col-sm-8">
+                    <div class="left-container"><div class="left-container-inner">
+
+
+
+
+
+
+<!-- FEATURED POST -->
+
+<!-- REGULAR POSTS -->
+
+
+
+
+
+
+<!-- entry shared -->
+
+<article class="post entry">
+
+
+
+<!-- DISPLAY FULL POSTS-->
+
+     
+
+       <h2 class="entry-header font-entryheader">
+           
+        <span class="entry-title">
+<a href="https://www.theopenforce.com/2020/04/solstice-run.html">Solstice Run - June 20</a>
+        </span>
+       </h2>
+
+
+
+       <h5 class="date-header font-dateheader">
+           <span class="entry-date"><a href="https://www.theopenforce.com/2020/04/solstice-run.html">April 15, 2020</a></span>
+       </h5>
+
+
+
+			<div class="entry-body font-entrybody">
+				<p><a class="asset-img-link" href="https://zurlocker.typepad.com/.a/6a00d83452e46469e20240a520bfb6200b-pi" style="display: inline;"><img alt="Solstice banner 2 medium" class="asset  asset-image at-xid-6a00d83452e46469e20240a520bfb6200b img-responsive" src="https://zurlocker.typepad.com/.a/6a00d83452e46469e20240a520bfb6200b-500wi" style="width: 500px;" title="Solstice banner 2 medium" /></a></p>
+<p>Some friends of mine from MySQL days have organized a world-wide distributed virtual running event. It&#39;s open to every runner, any distance, anywhere in the world. The run will take place on the <a href="http://www.solstice-run.com" rel="noopener" target="_blank">summer Solstice</a>, June 20.&#0160;</p>
+<p>If you are a runner, or would like to try it out, <a href="http://www.solstice-run.com">please register</a>. (Of course, it&#39;s free!) I&#39;d like to see if we can get people from more than 40 countries signed up.</p>
+<ul>
+<li><strong>Official Site</strong>: <a href="http://www.solstice-run.com">solstice-run.com</a></li>
+</ul>
+			</div>
+			
+
+			
+
+
+
+
+
+<hr />
+
+
+<div class="entry-footer">
+          <p class="entry-footer-info font-entryfooter"><span class="post-footers">Posted at 09:14 PM </span> <span class="separator">|</span> <a class="permalink" href="https://www.theopenforce.com/2020/04/solstice-run.html">Permalink</a>
+
+ 
+	<span class="separator"> | </span>
+	
+			 <a class="entry-comments" href="https://www.theopenforce.com/2020/04/solstice-run.html#comments">Comments (0)</a>
+	
+
+
+          </p>
+
+
+          <!-- technorati tags -->
+
+    
+    <p class="entry-footer-tags font-entryfooter">
+        Tags:
+        10k, 5k, half-marathon, marathon, solstice run
+    </p>
+    
+
+
+
+          <!-- post footer links -->
+	<p class="entry-footer-share entry-footer-share-buttons">
+		<span class="entry-footer-links-reblog"><a href="#" class="share-link share-link-reblog" title="Grab this post for your own blog" onclick="b=document.body; TYPEPAD___bookmarklet_domain='https://www.typepad.com/'; TYPEPAD___reblog_entryxid='6a00d83452e46469e20240a520bfbe200b'; TYPEPAD___is_reblog = 1; if (b &amp;&amp; !document.xmlVersion) { void ( z=document.createElement('script')); void(z.type='text/javascript'); void(z.src='https://static.typepad.com/.shared/js/qp/loader-combined-min.js'); void(b.appendChild(z));}else{}">Reblog
+ (0)
+</a>
+</span>
+	</p>
+
+
+</div>
+
+
+</article>
+ 
+
+
+
+
+
+
+    
+
+
+
+
+<!-- entry shared -->
+
+<article class="post entry">
+
+
+
+<!-- DISPLAY FULL POSTS-->
+
+     
+
+       <h2 class="entry-header font-entryheader">
+           
+        <span class="entry-title">
+<a href="https://www.theopenforce.com/2020/03/managing-during-a-crisis.html">Managing During a Crisis</a>
+        </span>
+       </h2>
+
+
+
+       <h5 class="date-header font-dateheader">
+           <span class="entry-date"><a href="https://www.theopenforce.com/2020/03/managing-during-a-crisis.html">March 20, 2020</a></span>
+       </h5>
+
+
+
+			<div class="entry-body font-entrybody">
+				<p>&#0160;</p>
+<p><a class="asset-img-link" href="https://zurlocker.typepad.com/.a/6a00d83452e46469e20240a518c1e8200b-pi" style="display: inline;"><img alt="Mad gas mask back cover" class="asset  asset-image at-xid-6a00d83452e46469e20240a518c1e8200b img-responsive" src="https://zurlocker.typepad.com/.a/6a00d83452e46469e20240a518c1e8200b-450wi" style="width: 450px;" title="Mad gas mask back cover" /></a></p>
+<p>There&#39;s no doubt we are in a difficult time. We are facing a global pandemic and ensuing economic crisis that is likely the most difficult situation the world has faced in generations. The past few weeks I&#39;ve had many conversations with founders and CEOs about what they are doing. So let me share some thoughts and observations for managers, leaders and founders.</p>
+<p>During a time of crisis the most important points are:</p>
+<ul>
+<li><strong>Communicate</strong></li>
+<li><strong>Develop contingency plans</strong></li>
+<li><strong>Make hard decisions</strong></li>
+<li><strong>Take bold action sooner than later</strong></li>
+</ul>
+<p>Without getting political, it&#39;s clear that leaders in many countries have not done a great job in these areas. That makes it even more important for business leaders to step up. Not only to help <a href="https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca" rel="noopener" target="_blank">flatten the curve</a>, but also to provide guidance to their customers and employees.</p>
+<p><span style="text-decoration: underline;"><strong>Communicate</strong></span></p>
+<p>Communicate to your employees, your customers, your partners, your investors. People need to hear from you, whether you&#39;re the CEO, an executive, or a manager. Especially with many tech businesses operating in a remote / work from home environment. Reach out one-on-one with people, not just your direct reports, but everyone. Ask them how they&#39;re doing. Ask what you can do to help. Don&#39;t just send out a blanket email to customers either. You&#39;ve probably got twenty of those in your in-box. Instead focus on your company mission and taking care of your customers.</p>
+<p>Many of your employees will be facing dramatically different circumstances of working from home, dealing with family crises, worrying whether they will have jobs and so on. So give them flexibility in their working hours and the time to address family and personal needs.</p>
+<p><span style="text-decoration: underline;"><strong>Develop Contingency Plans</strong></span></p>
+<p>No one knows how long the lockdowns will last or what the longterm economic impact will be. But you must develop a set of contingency plans. What happens if we can no longer sell in Enterprise accounts? What happens if our customers stop renewing? What happens if we can no longer hire new people?&#0160;</p>
+<p>Some scenarios that might have seemed extreme a week ago are now the <em>de facto</em> situation. The prudent thing to do is recognize that things will continue to change. Consider what signals will guide your decision making through the crisis. Watch carefully your sales funnel, what deals close and what gets pushed and who goes into production. Look for patterns that help you determine where to concentrate your efforts in marketing, sales, customer success.</p>
+<p>Build a plan and then consider what if it gets even worse? And worse still? If you are selling to government, healthcare, financial services, logistics and tech companies, those segments may be ok. Retail, travel, hospitality, sports, manufacturing may be severely impacted. Non-essential businesses have been closed in many states and countries. What is your plan if that becomes nationwide?&#0160;</p>
+<p>Many marginal businesses will be challenged during this crisis. If you&#39;ve got less than 12 months runway in the bank and do not have clear product / market fit this is now an existential crisis. If the earlier dot com meltdown and 2008 recession are any indicator, VCs will be in triage mode and many will walk away from weaker companies. So don&#39;t expect a lot of guidance and certainly no further investment. Whatever goals you set with your board are probably out the window. Your most important goal may be as simple as: can we survive 2020? Figure out if there are one or two use cases or segments where you have some repeatability and focus your efforts. It may require a significant pivot to lower pricing, online sales, or specific narrow use cases.</p>
+<p>Ideally you can cultivate an environment where everyone is generating ideas, whether these are ideas for cost reduction, or over time, ideas on how to innovate and identify new use cases. Sometimes the best, most creative thinking comes out of the constraints of a difficult situation.</p>
+<p><span style="text-decoration: underline;"><strong>Make Hard Decisions</strong></span></p>
+<p>Some of the healthiest companies I work with have two years of runway in the bank. And they are still being very cautious on spending, cutting discretionary marketing, putting a hiring freeze in place, putting expansion plans on hold. It may be hard to hit sales targets without the new hires you planned in January, but if things are even worse in June (and September) it will have been the prudent thing to do.&#0160;</p>
+<p><span style="text-decoration: underline;"><strong>Take Bold Action Sooner Than Later</strong></span></p>
+<p>Just as we wish our political leaders took more dramatic action earlier, do not fall prey to a &quot;wait and see&quot; attitude. Do not assume that your business will be ok. Yes, video conferencing and BI may be counter-cyclical. But it is better to be prepared for the worst than to be fatally optimistic. This is a good time to be very clear on the <span style="text-decoration: underline;">core</span> mission of your business. Make sure teams are focused on what really matters, the small number of things that are essential to your business, not the &quot;nice to haves.&quot;&#0160;</p>
+<p>If you can afford to keep your team intact during this period, that is a great thing. People will remember that you took care of them and they will repay you with dedication, loyalty and hard work.&#0160;</p>
+<p>But if you have less than 12 months of runway, you will need to reduce your burn rate and it is better to do so sooner and all at once rather than dribbling out a few cuts at a time. Cut spending to the point that it hurts. If you need to make a further reduction in headcount expense, consider a pay cut at the executive level before you eliminate jobs. There are no easy decisions here. But if you need to cut jobs, cut deeply all at once. The worst situation is you have a layoff, it&#39;s not deep enough and then some weeks or months later, you do it again.&#0160;</p>
+<p>Do your best to provide some kind of safe landing (severance and recommendation) for any employees whose jobs you eliminate. Treat people with dignity and respect so that when it is time to rebuild they will want to come back to work for you.&#0160;</p>
+<p>A crisis such as we have now is an opportunity for all managers to demonstrate real leadership. It is a time when people show their true colors, for good or for bad. It will be difficult, but become the leader that your company needs.</p>
+<p>If you have other ideas or suggestions, please feel free to add comments below.</p>
+<p><strong>Update</strong>: And here are some excellent articles</p>
+<ul>
+<li><strong>Tomas Pueyo: </strong><a href="https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca" rel="noopener" target="_blank">Coronavirus - Why You Must Act Now</a></li>
+<li><strong>Tomasz Tunguz:</strong>&#0160;<a href="https://www.linkedin.com/pulse/six-startup-disciplines-challenging-times-tomasz-tunguz/?trackingId=OQLF4KTVMlENAUHMS2TwXw%3D%3D" rel="noopener" target="_blank">Six Startup Disciplines for Challenging Times</a></li>
+<li><strong>Sequoia Capital:</strong> <a href="https://medium.com/sequoia-capital/coronavirus-the-black-swan-of-2020-7c72bdeb9753" rel="noopener" target="_blank">Coronavirus: The Black Swan of 2020</a></li>
+<li><strong>Steve Blank:</strong> <a href="https://steveblank.com/2020/03/17/the-virus-survival-strategy-for-your-startup/amp/" rel="noopener" target="_blank">The Virus Survival Strategy for Your Startup</a></li>
+<li><strong>Marc Mogalle:</strong> <a href="https://medium.com/@marcmogalle/the-corona-canvas-how-to-deal-with-the-crisis-as-a-founder-64b30af34770" rel="noopener" target="_blank">The Corona Canvas - How to Deal with a Crisis</a></li>
+<li><strong>Laura Desmond:</strong> <a href="https://www.smartly.io/blog/what-i-learned-in-the-last-crash" rel="noopener" target="_blank">What I Learned in the Last Crash</a></li>
+<li><strong>HBR:</strong> How<a href="https://hbr.org/2019/05/how-to-survive-a-recession-and-thrive-afterward?utm_source=linkedin&amp;utm_medium=social&amp;utm_campaign=hbr" rel="noopener" target="_blank"> to Survive a Recession and Thrive Afterward </a></li>
+<li><strong>WSJ: </strong><a href="https://www.wsj.com/articles/for-ceos-a-crisis-is-the-time-to-step-up-11584118073" rel="noopener" target="_blank">For CEOs, a Crisis Is the Time to Step Up</a></li>
+</ul>
+			</div>
+			
+
+			
+
+
+
+
+
+<hr />
+
+
+<div class="entry-footer">
+          <p class="entry-footer-info font-entryfooter"><span class="post-footers">Posted at 01:56 PM in <a href="https://www.theopenforce.com/business/">Business</a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.theopenforce.com/2020/03/managing-during-a-crisis.html">Permalink</a>
+
+ 
+	<span class="separator"> | </span>
+	
+			 <a class="entry-comments" href="https://www.theopenforce.com/2020/03/managing-during-a-crisis.html#comments">Comments (0)</a>
+	
+
+
+          </p>
+
+
+          <!-- technorati tags -->
+
+    
+    <p class="entry-footer-tags font-entryfooter">
+        Tags:
+        ceo, coronavirus, crisis management, layoff, pandemic
+    </p>
+    
+
+
+
+          <!-- post footer links -->
+	<p class="entry-footer-share entry-footer-share-buttons">
+		<span class="entry-footer-links-reblog"><a href="#" class="share-link share-link-reblog" title="Grab this post for your own blog" onclick="b=document.body; TYPEPAD___bookmarklet_domain='https://www.typepad.com/'; TYPEPAD___reblog_entryxid='6a00d83452e46469e2025d9b3ea0e1200c'; TYPEPAD___is_reblog = 1; if (b &amp;&amp; !document.xmlVersion) { void ( z=document.createElement('script')); void(z.type='text/javascript'); void(z.src='https://static.typepad.com/.shared/js/qp/loader-combined-min.js'); void(b.appendChild(z));}else{}">Reblog
+ (0)
+</a>
+</span>
+	</p>
+
+
+</div>
+
+
+</article>
+ 
+
+
+
+
+
+
+    
+
+    
+
+
+
+
+<!-- entry shared -->
+
+<article class="post entry">
+
+
+
+<!-- DISPLAY FULL POSTS-->
+
+     
+
+       <h2 class="entry-header font-entryheader">
+           
+        <span class="entry-title">
+<a href="https://www.theopenforce.com/2020/02/launching-delphi.html">Launching Delphi - Feb 14, 1995</a>
+        </span>
+       </h2>
+
+
+
+       <h5 class="date-header font-dateheader">
+           <span class="entry-date"><a href="https://www.theopenforce.com/2020/02/launching-delphi.html">February 14, 2020</a></span>
+       </h5>
+
+
+
+			<div class="entry-body font-entrybody">
+				<p><a class="asset-img-link" href="https://zurlocker.typepad.com/.a/6a00d83452e46469e20240a50bcffc200b-pi" style="float: left;"><img alt="Booth Delphi 1.0 launch Feb 1995" class="asset  asset-image at-xid-6a00d83452e46469e20240a50bcffc200b img-responsive" src="https://zurlocker.typepad.com/.a/6a00d83452e46469e20240a50bcffc200b-400wi" style="width: 400px; margin: 0px 5px 5px 0px;" title="Booth Delphi 1.0 launch Feb 1995" /></a>It was twenty-five years ago today that Anders Hejlsberg and I got up on stage at the Software Development &#39;95 conference and launched Delphi to the world. The joke was that all 1,500 of us were geeks who couldn&#39;t get a date even on Valentine&#39;s day.&#0160;</p>
+<p>We knew Delphi was a good product. Maybe even a great one. Our beta testers loved it, the team was excited and we had a 32-bit version in the works for the upcoming Windows 95 OS that would be bigger, better and faster. But the scale of Delphi&#39;s success took us by surprise. The Borland booth was mobbed at the conference. Delphi, with the help of DavidI and Charlie Calvert, gave birth to an ecosystem of third party books, magazines, component libraries and more. I&#39;ve met countless developers over the years who told me Delphi enabled them to learn Windows development, build their career, their business.</p>
+<p><a class="asset-img-link" href="https://zurlocker.typepad.com/.a/6a00d83452e46469e20240a4e73715200d-pi" style="float: right;"><img alt="Anders Delphi 1.0 launch Feb 1995" class="asset  asset-image at-xid-6a00d83452e46469e20240a4e73715200d img-responsive" src="https://zurlocker.typepad.com/.a/6a00d83452e46469e20240a4e73715200d-300wi" style="width: 300px; margin: 0px 0px 5px 5px;" title="Anders Delphi 1.0 launch Feb 1995" /></a>So what made Delphi so good? You gotta give credit to <a href="https://www.theopenforce.com/2020/02/anders-hejlsberg-delphi-1995.html" rel="noopener" target="_blank">Anders</a>. He is probably one of the ten best programmers in the world and certainly the best developer I&#39;ve ever worked with. He had more than ten years of compiler experience under his belt when we built Delphi. He knew exactly what tradeoffs mattered in language design to balance programmer productivity with machine performance. Delphi compiled to machine code at the speed of 35,000 lines per minute on a 90 mhz pentium. I have no idea how fast that is on today&#39;s machine. But you could load a demo program, hit the run button and by the time you clapped your hands together it was running. And I clapped my hands together ever time I gave a demo, just to make the point.&#0160;</p>
+<p>As Anders pointed out that night on stage, Delphi was written in Delphi. So the team that built Delphi (and it really was a team: Anders, Gary, Chuck, Dave, Allen, Hank, Ray, Marc, Danny, Charlie) used it every single day. We made it great because Delphi was the tool that <em>we</em> wanted to use. It was pretty mind-blowing when Anders loaded the Delphi project source code into Delphi and compiled itself.&#0160;</p>
+<p>The Delphi project was not an easy one though. It came at a tough time in Borland&#39;s history. The company was sued by Lotus in 1990, acquired Ashton Tate in 1991. By 1993, the company essentially sold of Quattro Pro and Paradox to Novell after Microsoft decimated the standalone spreadsheet and end-user database market. Oh yeah, and the founder and CEO, Philippe Kahn left to create Starfish Software a month before we launched. Philippe helped protect Delphi as a skunkworks project when we started and he coined the codename VBK (ahem) which none of us liked, but all of us believed in.&#0160;</p>
+<p>We knew if Borland was to stay relevant in developer tools, we needed to build something better than Visual Basic. We never saw Delphi as VB Killer, but certainly a VB Kompetitor. How would we compete with that behemoth? Well, we weren&#39;t cocky, but we also weren&#39;t afraid of Microsoft. We had to make Windows programming easy enough that a DOS programmer could do it. And in that regard, our prior efforts with Turbo Pascal 7, missed the mark. Borland had a couple of other internal efforts that never saw light of day (Monet, anyone?) and at some point, Gary, Anders and I came to the realization, someone had to make it happen, and that someone was us. Having a native code compiler meant that Delphi would have a huge performance advantage over interpreters. It also meant Delphi developers would be able to create their own reusable objects without having to learn a different language. That gave us huge extensibility.&#0160;</p>
+<p>We also learned there was another change on the horizon and that became our opportunity. Borland VP Rob Dickerson had highlighted the need for the company to build a client/server development system. Again, we looked around and we realized Paradox wasn&#39;t going to do it, dBase wasn&#39;t good enough, C++ was too hard. And so I put up my hand and convinced Gary and Anders not only did we need to make Windows development easy, we had to take on Client/Server development at the same time. Luckily they agreed, not knowing what Client/Server development meant. I didn&#39;t either, but I trusted we would figure it out. Ultimately this became our biggest differentiator in the market. While our performance over VB could be 2-3x faster, compared to SQL Windows or PowerBuilder, Delphi was 5-50x faster, and sometimes 800x faster.&#0160;</p>
+<p>When we first started, we thought the project might take a year, but that Client/Server stuff was a lot harder than we expected. One of the developers working on that area eventually left the company and when Chuck and Anders looked at his code they just about barfed. That cost us about six months. I&#39;m pretty sure every single person working on the project came to see me and said: &quot;Can&#39;t we forget that Client/Server thing and just ship the desktop Windows version?&quot; But my answer was always the same. I drew a curve of what Delphi desktop revenues would be. Then I drew a second line for Client/Server below the first one but growing at a steeper angle, eventually eclipsing the desktop revenues. I don&#39;t know if anyone believed me (and I honestly didn&#39;t know if I believed it myself) but it put an end to the discussion.&#0160;&#0160;</p>
+<p><a class="asset-img-link" href="https://zurlocker.typepad.com/.a/6a00d83452e46469e20240a4be0d86200c-pi" style="float: left;"><img alt="Zack Delphi 1.0 launch Feb 1995" class="asset  asset-image at-xid-6a00d83452e46469e20240a4be0d86200c img-responsive" src="https://zurlocker.typepad.com/.a/6a00d83452e46469e20240a4be0d86200c-300wi" style="width: 300px; margin: 0px 5px 5px 0px;" title="Zack Delphi 1.0 launch Feb 1995" /></a>I knew that the Client/Server product was more important strategically for the company because it would expand our market beyond Borland&#39;s traditional base. Ironically, at some point my boss VP Paul Gross asked why we were working on the desktop product, suggesting we skip that completely. I told him Delphi desktop revenues would be $30 million in the first year (a number I made up on the spot) and he nodded and said &quot;good point.&quot;&#0160;&#0160;</p>
+<p>Delphi&#39;s first year revenues were $70 million (far higher than we&#39;d expected) and grew from there. That&#39;s about $118 million, adjusted for inflation. And the Client/Server revenues really did eclipse the desktop revenues in the second year. To say Delphi saved Borland was not an overstatement.&#0160;</p>
+<p>We also made a good bet on shipping a 16-bit version of Delphi first, rather than jumping straight to 32-bit. It was a safe assumption that Microsoft would slip Chicago (Windows 95). So we had a stable 16-bit compiler and operating system and could work on that without having to worry about the ground moving beneath our feet. We were fortunate to get the 32-bit compiler under development in parallel, shipping it just about 12 months later as Windows 95 was gaining market share. Delphi 2.0 boosted performance another 3-4x giving us an even bigger lead.</p>
+<p>When we built Delphi we never thought it would last so long or have as much impact as it did. We were grateful for the support and feedback from our customers and third party developers. While we weren&#39;t obsessed with press coverage and awards, we were happy that it helped get the word out. I still have the Jolt Cola award on my bookcase. I figured if Delphi lasted to version 3.0, that meant we did a good job. But twenty-five years? Who could have guessed?</p>
+<p>Looking back on Delphi 1.0, much of those two years is a blur of sixty hour weeks, late evenings and occasional setbacks. But the memories that stand out were about the team. We were committed to building something great, something that we would use. Gary and Anders (and Chuck, and <a href="https://www.theopenforce.com/2020/02/danny-thorpe-why-the-name-delphi.html" rel="noopener" target="_blank">Danny</a>...) all had great taste. So there was a kind of aesthetic to the product. It&#39;s hard to explain, but we knew it as &quot;it works the way you hope it would.&quot; Delphi wasn&#39;t just fast, it avoided the limitations of many Rapid Application Development (RAD) tools that ran out of gas when you pushed hard.&#0160;</p>
+<p>I&#39;ve done a lot of interesting things in the last twenty-five years, but Delphi is the product I&#39;m most proud of. It was a magical time in our lives when we were experienced enough to do good work and young and foolish enough to bite off more than we could chew. We solved some hard problems that mattered in a market that we understood and the market responded. It shaped my thinking about how to build products in ways that I continue to use and teach to this day.</p>
+<p>I&#39;m grateful to Anders and Gary that we took on the project. Gary is the best engineering manager I have ever worked with and I was glad to get to work with him again at MySQL. Anders, of course, has gone on to do even greater things architecting C#, .Net and TypeScript. I&#39;m proud of the many developers, writers, and testers, product managers and marketers (Lance, Diane, Ben, you were awesome), who built on the early success of Delphi 1.0 to create a legacy that has withstood the test of time.</p>
+<p>And thank God we finally got that darned Language Reference Manual out.&#0160;</p>
+<p><a class="asset-img-link" href="https://zurlocker.typepad.com/.a/6a00d83452e46469e20240a4e7443d200d-pi" style="display: inline;"><img alt="Zack gary anders 2011" class="asset  asset-image at-xid-6a00d83452e46469e20240a4e7443d200d img-responsive" src="https://zurlocker.typepad.com/.a/6a00d83452e46469e20240a4e7443d200d-500wi" style="width: 500px;" title="Zack gary anders 2011" /></a></p>
+<p><em>Got a recollection of Delphi 1.0 or a story about Anders, Gary or me? Post a comment below...</em></p>
+<ul>
+<li><strong>Delphi Informant</strong>: <a href="https://www.theopenforce.com/2020/02/delphi-birth.html">Birth of Delphi</a></li>
+<li><strong>Danny Thorpe</strong>: <a href="https://www.theopenforce.com/2020/02/danny-thorpe-why-the-name-delphi.html">Why The Name Delphi?</a></li>
+<li><strong>Anders Hejslberg</strong>: <a href="https://www.theopenforce.com/2020/02/anders-hejlsberg-delphi-1995.html">.EXE Interview</a>&#0160;</li>
+</ul>
+			</div>
+			
+
+			
+
+
+
+
+
+<hr />
+
+
+<div class="entry-footer">
+          <p class="entry-footer-info font-entryfooter"><span class="post-footers">Posted at 02:14 AM in <a href="https://www.theopenforce.com/hot_companies/">Hot Companies</a>, <a href="https://www.theopenforce.com/technology/">Technology</a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.theopenforce.com/2020/02/launching-delphi.html">Permalink</a>
+
+ 
+	<span class="separator"> | </span>
+	
+			 <a class="entry-comments" href="https://www.theopenforce.com/2020/02/launching-delphi.html#comments">Comments (6)</a>
+	
+
+
+          </p>
+
+
+          <!-- technorati tags -->
+
+    
+    <p class="entry-footer-tags font-entryfooter">
+        Tags:
+        Borland, client/server, Delphi, Delphi25
+    </p>
+    
+
+
+
+          <!-- post footer links -->
+	<p class="entry-footer-share entry-footer-share-buttons">
+		<span class="entry-footer-links-reblog"><a href="#" class="share-link share-link-reblog" title="Grab this post for your own blog" onclick="b=document.body; TYPEPAD___bookmarklet_domain='https://www.typepad.com/'; TYPEPAD___reblog_entryxid='6a00d83452e46469e20240a4e73703200d'; TYPEPAD___is_reblog = 1; if (b &amp;&amp; !document.xmlVersion) { void ( z=document.createElement('script')); void(z.type='text/javascript'); void(z.src='https://static.typepad.com/.shared/js/qp/loader-combined-min.js'); void(b.appendChild(z));}else{}">Reblog
+ (0)
+</a>
+</span>
+	</p>
+
+
+</div>
+
+
+</article>
+ 
+
+
+
+
+
+
+    
+
+    
+
+    
+
+
+
+
+<!-- entry shared -->
+
+<article class="post entry">
+
+
+
+<!-- DISPLAY FULL POSTS-->
+
+     
+
+       <h2 class="entry-header font-entryheader">
+           
+        <span class="entry-title">
+<a href="https://www.theopenforce.com/2020/02/delphi-birth.html">Delphi Informant: Giving Birth</a>
+        </span>
+       </h2>
+
+
+
+       <h5 class="date-header font-dateheader">
+           <span class="entry-date"><a href="https://www.theopenforce.com/2020/02/delphi-birth.html">February 12, 2020</a></span>
+       </h5>
+
+
+
+			<div class="entry-body font-entrybody">
+				<p><em>This article appeared in Delphi Informant magazine in April 1996 discussing the development of Delphi 1.0.</em></p>
+<p><a class="asset-img-link" href="https://zurlocker.typepad.com/.a/6a00d83452e46469e20240a4bdaf81200c-pi" style="float: left;"><img alt="Zack Delphi 1.0 launch Feb 1995" class="asset  asset-image at-xid-6a00d83452e46469e20240a4bdaf81200c img-responsive" src="https://zurlocker.typepad.com/.a/6a00d83452e46469e20240a4bdaf81200c-300wi" style="width: 300px; margin: 0px 5px 5px 0px;" title="Zack Delphi 1.0 launch Feb 1995" /></a>One of the most fun things I’ve done in my career is to help build the “1.0” version of Delphi. Okay, 2.0 was pretty fun too, but, as they say, there’s nothing quite like the first time.</p>
+<p>When we started building Delphi 1.0, it was hard slogging. A lot of the tools out there, like PowerBuilder, SQL Windows, and Visual Basic were pretty good. Long before we even had a prototype up and running, I was on the road talking to developers to understand the problems they were facing. Most of them were pretty happy. I remember particularly thinking that the VB corporate users by and large were just the happiest bunch of developers I’d ever met. Heck, they were even having fun! I remember one particular meeting with about a dozen developers from a major airline. They told a not uncommon story of how a senior VP had decreed that they would use Visual Basic after he prototyped an application on a weekend. The developer told me that he didn’t want to have any association with — ugh — Basic, but after trying it out for a while, he changed his mind.</p>
+<p>Another time, I was meeting with a development team at a Wall Street foreign exchange. They showed me this tremendously impressive application for monitoring currencies — written in SQL Windows. It was beautiful. I thought, “Oh no, another satisfied customer. Time to move on.” So after a demonstration I asked how they liked the application. His answer: “It’s a dog.” The response time was simply too long to even be considered for production use. After all, Wall Street practically defines the phrase “Time is money.”</p>
+<p>I saw these scenarios repeated in meeting after meeting, city after city. On the surface, customers seemed pleased with the productivity gains of “Rapid Application Development” tools. But as I delved further, I found the love affair often came to a bitter end when they tried to move from prototype to production. I found lots of spaghetti code out there, and DLLs written in C to make up for performance bottlenecks in applications written in PowerBuilder, SQL Windows, and VB.</p>
+<p>It was some nine months into the two years of the development of Delphi 1.0 before we showed it to potential customers. There were two reasons for that. First of all, Delphi was an underground project that was truly secret. Heck, for the first year we had more code names than beta testers! Secondly, and perhaps more importantly, I wanted to make sure we understood customers problems rather than simply gauging a reaction to a demonstration. That way we could ensure we were building the right product, rather than fine tuning the wrong one.</p>
+<p>When we finally started showing Delphi to customers, the reaction was dramatic. After all, we were solving the problems they had told us about. Our mantra: “Performance, Reuse, RAD, and Scalability.” This helped us to not only define the product, but to communicate the benefits to the customer.</p>
+<p>Oddly enough, one of the problems we faced was how to name the product. As Jerry Coffey pointed out in this column [“Symposium,” Delphi Informant, January 1996], we were experimenting with all kinds of names. Although we had early on decided that “Pascal” should not be included in the name since it wasn’t really meaningful except to long-time fans, we really hadn’t made much progress on the name until a few months before its release.</p>
+<p>Leading contenders included “Visual AppBuilder” (luckily, it was taken) “Application Architect” (too much like a CASE tool), “Client Builder” (sounds like a sales prospecting package), “Object Vision” (ahh, we used that already, didn’t we?) and just about every combination of the words “Visual”, “Power”, “SQL”, “Application”, “Object”, and “Builder” (“Visual Power SQL Application Object Builder” anyone?)</p>
+<p>As we were in the late stages of selecting a name, whenever I’d do a presentation, whether to potential customers, sales reps, or third party vendors, I’d always ask them what they thought of the proposed names like “AppBuilder.” Invariably, the response was lukewarm. Then they’d ask, “Why don’t you just call it Delphi?” So in the end, we did.</p>
+<p>Danny Thorpe, then on the QA team, now currently part of the R&amp;D group, had came up with the original code name “Delphi” since it was to be a client/server tool connecting to the likes of Oracle among others. We had to come up with a code name for our first beta test and everyone felt that Delphi was acceptable. We had many later code names for internal use, external use, different countries, and at one point, I must admit, I randomly made up a new code name for every presentation, so that if there ever was a leak, we’d know from where it came.</p>
+<p>Delphi 2.0 has come a long way since then. Our original goal was to address a few of the usability issues and also migrate to a 32-bit compiler and take advantage of platform features like OLE automation, OCXes, etc. Along the way, we introduced several major innovations like Data Module Objects and Visual Form Inheritance that increased code reuse.</p>
+<p>The 32-bit compiler itself was actually started way back when the original 16-bit version of Delphi was started. At the time it seemed like a safe bet that “Chicago” (Windows 95) would slip out of 1994 and that Windows 3.1 would still be a viable development platform for Delphi 1.0. We were able to have most of the VCL ported to 32-bits and running with the new compiler prior to the release of Delphi 1.0. So we were quite confident that the architecture would ensure compatibility with most code from Delphi 1.0, assuming it wasn’t dependent on 16-bit data assembler, data structures, or unsupported API functions.</p>
+<p>Although it’s a bit too early to announce plans for the next version of Delphi, we’re certainly working on a number of fronts to further reduce the amount of code folks need to write, and make it easier to support very large projects.</p>
+<p><em>Zack Urlocker is Director of Delphi Product Management at Borland International. The views expressed here are his own. </em><em>He can be reached on CompuServe at 76217,1053.<br />(Well not anymore!)</em></p>
+			</div>
+			
+
+			
+
+
+
+
+
+<hr />
+
+
+<div class="entry-footer">
+          <p class="entry-footer-info font-entryfooter"><span class="post-footers">Posted at 11:31 PM in <a href="https://www.theopenforce.com/business/">Business</a>, <a href="https://www.theopenforce.com/misc/">Misc</a>, <a href="https://www.theopenforce.com/technology/">Technology</a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.theopenforce.com/2020/02/delphi-birth.html">Permalink</a>
+
+ 
+	<span class="separator"> | </span>
+	
+			 <a class="entry-comments" href="https://www.theopenforce.com/2020/02/delphi-birth.html#comments">Comments (0)</a>
+	
+
+
+          </p>
+
+
+          <!-- technorati tags -->
+
+    
+    <p class="entry-footer-tags font-entryfooter">
+        Tags:
+        Borland, Delphi, Delphi25, Informant
+    </p>
+    
+
+
+
+          <!-- post footer links -->
+	<p class="entry-footer-share entry-footer-share-buttons">
+		<span class="entry-footer-links-reblog"><a href="#" class="share-link share-link-reblog" title="Grab this post for your own blog" onclick="b=document.body; TYPEPAD___bookmarklet_domain='https://www.typepad.com/'; TYPEPAD___reblog_entryxid='6a00d83452e46469e20240a4e6d7b7200d'; TYPEPAD___is_reblog = 1; if (b &amp;&amp; !document.xmlVersion) { void ( z=document.createElement('script')); void(z.type='text/javascript'); void(z.src='https://static.typepad.com/.shared/js/qp/loader-combined-min.js'); void(b.appendChild(z));}else{}">Reblog
+ (0)
+</a>
+</span>
+	</p>
+
+
+</div>
+
+
+</article>
+ 
+
+
+
+
+
+
+    
+
+    
+
+
+
+
+<!-- entry shared -->
+
+<article class="post entry">
+
+
+
+<!-- DISPLAY FULL POSTS-->
+
+     
+
+       <h2 class="entry-header font-entryheader">
+           
+        <span class="entry-title">
+<a href="https://www.theopenforce.com/2020/02/danny-thorpe-why-the-name-delphi.html">Danny Thorpe: Why The Name "Delphi?"</a>
+        </span>
+       </h2>
+
+
+
+       <h5 class="date-header font-dateheader">
+           <span class="entry-date"><a href="https://www.theopenforce.com/2020/02/danny-thorpe-why-the-name-delphi.html">February 12, 2020</a></span>
+       </h5>
+
+
+
+			<div class="entry-body font-entrybody">
+				<p><strong>by <a href="https://en.wikipedia.org/wiki/Danny_Thorpe" rel="noopener" target="_blank">Danny Thorpe</a></strong></p>
+<p><em>This article originally appeared on the Borland museum website.&#0160;</em></p>
+<p><a class="asset-img-link" href="https://zurlocker.typepad.com/.a/6a00d83452e46469e20240a4bd9dcd200c-pi" style="float: left;"><img alt="Danny thorpe" class="asset  asset-image at-xid-6a00d83452e46469e20240a4bd9dcd200c img-responsive" src="https://zurlocker.typepad.com/.a/6a00d83452e46469e20240a4bd9dcd200c-200wi" style="width: 170px; margin: 0px 5px 5px 0px;" title="Danny thorpe" /></a>&quot;Delphi&quot; started out as a beta codename for a closely guarded skunkworks project at Borland: a next-generation visual development environment for Windows based on Borland&#39;s Object Pascal programming language. The codename hatched in mid 1993, after the development team had been through about 6 months of deep research, proof-of-concept exercises, and market analysis. Members of the then Pascal development team were hanging around R&amp;D Manager Gary Whizin&#39;s office brainstorming clever codenames to use for the new product. It was not a large office, but it was not a large team either - about 10 people between R&amp;D, QA, Pubs, and Marketing. It would have been odd not to see Anders Heilsberg, Chuck Jazdzewski, Allen Bauer, Zack Urlocker, Richard Nelson, myself, and several other regulars jawing away on some topic or another in Gary&#39;s office. For the codename jam sessions, there may have been some overflow into the hallway.</p>
+<p>Borland has a long history of &quot;unusual&quot; codenames, some with catchy slogans or backgrounds that tie the odd name to the market or product focus. A codename should have no obvious connection to the product, so that if an eavesdropper overhears the name in conversation it won&#39;t be too obvious what product is being discussed. The difference between an everyday disposable codename a great codename is the pithy passphrase behind it. The most memorable for me was the codename for Quattro Pro 4.0: &quot;Budda&quot;. Why? It was to assume the Lotus position!</p>
+<p>So we were sitting in Gary&#39;s office, kicking around weird and wacky codename possibilities. The strategic decision to make database tools and connectivity a central part of the new Pascal product had been made only a few days before, so Gary was keen on having a codename that played up the new database focus of the proposed product, and of its development team. The database shift was no small matter - I remember having grave reservations about &quot;polluting&quot; the Pascal tools with database arcana that took me almost a year to shake off. It was a big gamble for Borland, but it was very carefully measured, planned, and implemented. In hindsight, making Delphi a database product was exactly what was needed to break Borland&#39;s Pascal tools out of the Visual Basic - C++ market squeeze play and set Delphi head and shoulders above traditional Windows development tools.<br />Gary kept coming back to the codename &quot;Oracle&quot;, referring to SQL connectivity to Oracle servers. &quot;Oracle&quot; didn&#39;t fly with the group, though. Aside from the obvious confusion with the same-name company and server product, the name itself implied server stuff, whereas the product we were building was (at that time) a client building tool, a way to talk to Oracle and other servers.</p>
+<p>How do you talk to an oracle? &quot;The Oracle at Delphi&quot; was the word association that popped into my head. So I offered up &quot;Delphi&quot;: If you want to talk to [the] Oracle, go to Delphi.<br />The suggestion wasn&#39;t an instant hit. It&#39;s an old name, an old place, a pagan temple in the ruins of a dead civilization. Not exactly an inspiring association for a new product! As some press articles later noted, the Delphic Oracle was particularly infamous for giving out cryptic or double-edged answers - not a great association for a data management tool. Asking a question of the oracle was free to all, but having the oracle&#39;s answer interpreted and explained (compiled?) cost a pretty drachma. (The marketing guys liked that part)<br />Overall, though, the &quot;Delphi&quot; codename had a classier ring to it than the sea of spent puns that littered the room. Pascal is a classic programming language, so it just felt fitting somehow to associate a Pascal-based development tool with a classical Greek image. And as Greek mythologies go, the temple at Delphi is one of the least incestuous, murderous, or tragic ancient Greek icons you&#39;ll find.</p>
+<p>We went through a lot of codenames during the development of that 1.0 product, coining a different codename for each press or corporate briefing of the beta product. This was an effort to limit rumors and allow us to track the source of leaks. The last thing we wanted was for you-know-who to get wind of what we were up to. Through all these disposable codenames, the Delphi codename stuck. Towards the end of the development cycle, marketing started using the Delphi codename across all prepress and corporate briefings, and as the codename for the final beta releases. That got the rumor mills talking to each other, and the tools industry was abuzz with talk about this secret project at Borland codenamed &quot;Delphi&quot;. J.D. Hildebrand wrote a whole editorial in Windows Tech Journal about the &quot;Delphi buzz&quot; months before the product was launched. (paraphrased: &quot;I can&#39;t tell you what it is, but I can tell you this: Delphi is going to change our lives.&quot;)</p>
+<p>When it came time to pick a retail product name, the nominations were less than inspiring.. The &quot;functional&quot; name, a name that describes what the product actually does and is therefore much easier to market and sell, would have been AppBuilder. This name actually still appears in some IDE internal class names, such as the class name of the IDE main window. (R&amp;D caved in to the functional name pressures and set about implementing it early) But AppBuilder didn&#39;t light up people&#39;s imagination. It didn&#39;t work well internationally - functional names are only functional in their language of origin.</p>
+<p>Thankfully, a few months before Delphi was scheduled for release Novell shipped their own product called Visual AppBuilder. There was much rejoicing in the Borland halls, for at last the &quot;AppBuilder&quot; debate was laid to rest. With the functional name taken out of the running, suggestions started coming from all quarters to use the Delphi codename as the product name.</p>
+<p>Delphi wasn&#39;t home-free yet. The lead marketing person had legitimate concerns about the extra effort that would be required to build name recognition in the marketplace for an &quot;iconic&quot; (opposite of functional) product name, so he requested a vote of the development team. There was only one vote against (guess who?). Much to our chagrin, someone came to the conclusion that the development team&#39;s views were not an accurate representation of the marketplace (&quot;sample error&quot; was the phrase I heard), and pressed for a survey of the beta testers. When that poll didn&#39;t produce the result he wanted, the survey was broadened again to include Borland&#39;s international subsidiaries, press, market analysts, stock analysts, corporate accounts, software retailers, and probably a few K-Mart shoppers. It became a bit of a comedy: the harder people tried to dismiss &quot;Delphi&quot; for the product name, the more it gained support.</p>
+<p>&quot;Delphi&quot; has a classical ring to it. It has a consistent meaning/word association worldwide in all languages. It has no embarrassing vulgar slang meanings in other languages (that I&#39;m aware of). Most of all, the marketing guys had done a marvelous job of building up market anticipation and buzz around the &quot;Delphi&quot; name. The market was primed and ravenous for this thing called &quot;Delphi&quot;.</p>
+<p>And that, boys and girls, is how the Delphi product got its name.</p>
+<p><em><a href="https://en.wikipedia.org/wiki/Danny_Thorpe">Danny Thorpe</a>&#0160; joined Borland in 1990 around the same time I did. He worked on the QA Team for Turbo Pascal and later as part of the original Delphi team. Danny came up with the Delphi name and later worked on key parts of the compiler, VCL library and IDE.&#0160; &#0160;</em></p>
+			</div>
+			
+
+			
+
+
+
+
+
+<hr />
+
+
+<div class="entry-footer">
+          <p class="entry-footer-info font-entryfooter"><span class="post-footers">Posted at 01:54 PM in <a href="https://www.theopenforce.com/business/">Business</a>, <a href="https://www.theopenforce.com/technology/">Technology</a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.theopenforce.com/2020/02/danny-thorpe-why-the-name-delphi.html">Permalink</a>
+
+ 
+	<span class="separator"> | </span>
+	
+			 <a class="entry-comments" href="https://www.theopenforce.com/2020/02/danny-thorpe-why-the-name-delphi.html#comments">Comments (0)</a>
+	
+
+
+          </p>
+
+
+          <!-- technorati tags -->
+
+    
+    <p class="entry-footer-tags font-entryfooter">
+        Tags:
+        Borland, Danny Thorpe, Delphi, Delphi25
+    </p>
+    
+
+
+
+          <!-- post footer links -->
+	<p class="entry-footer-share entry-footer-share-buttons">
+		<span class="entry-footer-links-reblog"><a href="#" class="share-link share-link-reblog" title="Grab this post for your own blog" onclick="b=document.body; TYPEPAD___bookmarklet_domain='https://www.typepad.com/'; TYPEPAD___reblog_entryxid='6a00d83452e46469e20240a4e6c453200d'; TYPEPAD___is_reblog = 1; if (b &amp;&amp; !document.xmlVersion) { void ( z=document.createElement('script')); void(z.type='text/javascript'); void(z.src='https://static.typepad.com/.shared/js/qp/loader-combined-min.js'); void(b.appendChild(z));}else{}">Reblog
+ (0)
+</a>
+</span>
+	</p>
+
+
+</div>
+
+
+</article>
+ 
+
+
+
+
+
+
+    
+
+    
+
+
+
+
+<!-- entry shared -->
+
+<article class="post entry">
+
+
+
+<!-- DISPLAY FULL POSTS-->
+
+     
+
+       <h2 class="entry-header font-entryheader">
+           
+        <span class="entry-title">
+<a href="https://www.theopenforce.com/2020/02/anders-hejlsberg-delphi-1995.html">.EXE Interview with Anders Hejlsberg on Delphi (1995)</a>
+        </span>
+       </h2>
+
+
+
+       <h5 class="date-header font-dateheader">
+           <span class="entry-date"><a href="https://www.theopenforce.com/2020/02/anders-hejlsberg-delphi-1995.html">February 12, 2020</a></span>
+       </h5>
+
+
+
+			<div class="entry-body font-entrybody">
+				<p><em>To commemorate the 25th anniversary of Delphi on Feb 14, 2002 here is a transcript of an interview with Anders Hejlsberg, Chief Architect of Delphi conducted by .EXE Magazine editor Will Watts from 1995. Anders discusses the design and development of Delphi and the then forthcoming 32 bit version for Windows 95. This was the most detailed technical interview published about Delphi at the time.</em></p>
+<p><strong>Q. How did the idea for Delphi evolve from Turbo/Borland Pascal? At what stage did you decide to add the environment, database support etc?</strong></p>
+<p><a class="asset-img-link" href="https://zurlocker.typepad.com/.a/6a00d83452e46469e20240a4bd706d200c-pi" style="float: right;"><img alt="Delphi anders" class="asset  asset-image at-xid-6a00d83452e46469e20240a4bd706d200c img-responsive" src="https://zurlocker.typepad.com/.a/6a00d83452e46469e20240a50b3139200b-pi" style="width: 400px; margin: 0px 0px 5px 5px;" title="Delphi anders" /></a>A. The key idea was to design a tool that combines visual development environment, Client/Server database support, and a native code compiler. Before Delphi, you always had to make a choice. Do I go for the performance of a native code compiler, or the ease of use of a visual development environment? Do I go for a powerful object-oriented language, or a proprietary 4GL Client/Server tool? What programmers really want is all of the above, in one package. That&#39;s what we set out to do with Delphi.</p>
+<p>What it really boils down to is productivity--we wanted to design a tool that would make developers more productive, all the way from prototype to production code. Other products lure you with visual tools, but once you get halfway through your project, they let you down because of sluggish performance, lack of extensibility, or general stability problems. The competition talks about adding extensibility and improving performance. That&#39;s a fundamental difference between their products and ours. Extensibility and performance was on the white-board the first day we started designing Delphi, and it permeates the entire product. For example, if you want to design a new component in Visual Basic, you have to write it in another language, such as C or C++ (or Delphi, for that matter). None of your VB skills can be reused, you have to learn a different language, and you can&#39;t easily inherit from any of the built-in components. Delphi, on the other hand, allows you to write new components in Delphi, and you can inherit from any of the built-in ones. That&#39;s true extensibility, and it translates into a substantial productivity boost.</p>
+<p>Another key aspect of Delphi is its versatility. Other tools tend to focus either on Windows application development or on Client/Server development, and one always trades off the other. Delphi is equally adept at both, as is evident from the kinds of applications our customers are building. They range from shrink-wrap Windows utilities and multi-media games, through desktop database applications, and all the way up to multi-user enterprise-wide Client/Server solutions. The point is that almost any Windows application needs some form of database access, and any database application needs some form of Windows specific programming--to be productive, you need a tool that does both.</p>
+<p>Delphi really leverages a lot of very mature database technology from Borland including ReportSmith, the Borland Database Engine, SQL Link native drivers for remove servers and the Local InterBase Server. Just the InterBase server alone is a tremendous technology that gives developers the ability to use full ANSI-92 SQL in their applications so they can begin exploring SQL and client/server development all on their local PC.</p>
+<p><strong>Q. You emphasise Delphi&#39;s versatility as an advantage, but surely it is also a drawback? If one needs to build a client/server application, PowerBuilder offers better CASE/database management facilities than Delphi.</strong></p>
+<p>A. There&#39;s an inherent advantage to being versatile. Look at the computer on my desktop. Do I need a dedicated word processor, a PC for my spreadsheets and a terminal with access to my customer records? No, I&#39;ve got one PC that&#39;s versatile enough to do all these things.</p>
+<p>A very large American retail chain--one of the largest--just standardized on Delphi over PowerBuilder precisely because their engineers can do 85% of all their work using Delphi versus 60% of their work using PowerBuilder. That saves them enormous amounts of money and complexity, including in ways you may not have considered. As an example, skills and techniques learned writing a small utility are directly applicable to client/server projects. A lot of today&#39;s programmers started out by writing those little command-line utilities in the good old days. It&#39;s a great way to experiment with and master the use of data structures, object-oriented techniques or learning about the Windows API. Consider, also, how using the same tool for a broad range of applications provides a company with a neat training path: Someone can start writing non-database programs and then gradually move onto projects dealing with valuable corporate data.</p>
+<p>There&#39;s no end to the components and views you can add to Delphi. The population of programmers who can build components in Delphi is much larger than with any other tool on the market. We&#39;re back to the days when one programmer in one room can build and test something that can be used by tens of thousands of other people. Can you imagine what the<br />availability of specialized component sets will be like in six months? In a year?</p>
+<p>I think the entire point of combining a component-based visual development environment with an object-oriented compiler and database technology is to make sure you never run out of gas. That&#39;s not a bug--it&#39;s a feature.</p>
+<p><strong>Q. If you want a quick and dirty hack, surely it makes sense to use Visual Basic, because everybody can use it without having to master a scary, complex language like Pascal. If you are doing multi-media or real time work, why mess around with a system which delivers slightly slower performance, and requires you to hand-translate all the header files for any </strong><strong>DLLs you may need, when you could just use C++?</strong></p>
+<p>A. As we like to say, &quot;It&#39;s not your father&#39;s Turbo Pascal any more&quot;. We made sure that the Object Pascal code you have to write is as easy as BASIC but without limitations.</p>
+<p>We&#39;ve taken great pains to make sure that when you&#39;re interacting with components, the code you write is as simple as possible--but no simpler. Many reviewers have remarked that they thought they were coding in Basic when they first started using Delphi. It&#39;s that easy. When they want to do something more interesting and start using the richness of the language, they usually start remembering how much they like Pascal.</p>
+<p>In fact, I think you miss an essential advantage of Delphi. Anybody who has used a compiler--especially one that supports good type-checking--knows that a compiler is really a programmer&#39;s best friend. When it tells you it&#39;s probably not a good idea to take the square root of your Window caption, it&#39;s showing you a logic error in your code and saving you time. Is it an advantage that BASIC will perform automatic type conversions in that circumstance instead of giving you an error? I wish my spell checker program could complain about the logic of a paragraph I&#39;ve written in the same way as our compiler warns you about illogical programming statements. Our 32-bit compiler goes even further and offers you all sorts of hints about problems it detects in your program. This kind of help is invaluable and one of the things that makes programming in Delphi very productive.</p>
+<p><strong>Q. What is the secret of Delphi&#39;s fast compile/link cycle?</strong></p>
+<p>A. Borland has over ten years of experience in building the world&#39;s fastest compilers, and we&#39;ve put that knowledge to good use in Delphi- -it compiles at about 350,000 lines per minute on a 90 Mhz Pentium. A number of factors comtribute to this throughput. Delphi units (code modules) compile to .DCU files, which you can think of as a combination of a C++ precompiled header file and an .OBJ file. (It&#39;s funny how the hot topic in the C++ community is pre-compiled header files and incremental linking--Borland&#39;s Object Pascal technology has had these features for more than eight years.) Delphi units specify what other units they depend on through USES clauses--sort of like C++ #include&#39;s of header files. By analyzing the USES clauses of each unit in a project, the compiler can automatically perform minimal builds with no need for a make file. The net result is that the compiler never compiles more than it has to, and it never compiles the same thing more than once. Finally, the clean syntax of Object Pascal allows for very fast parsing.</p>
+<p><strong>Q. Is the compiler engine itself written in Delphi? How much </strong><strong>does it differ from the Borland Pascal 7 compiler?</strong></p>
+<p>A. The compiler is written in assembly language. It is fully backwards compatible with BP7, and we&#39;ve added lots of object-oriented extensions such as class references, virtual constructors, and the IS and AS operators. We did a lot of work to enable declaring, registering and filing properties and we generate run-time type information that&#39;s used to communicate published property, event and method information to the development environment. You&#39;ll see some interesting applications of that capability in our 32-bit release. One very unique enhancement was our use of bound method instance pointers to implement event delegation. They&#39;re very efficient and fit nicely into the language. And of course we did a lot of work to add structured exception handling. In addition, there are lots of little niceties that people have requested, such as support for C calling conventions.</p>
+<p><strong>Q. Delphi implements objects in a manner similar to Apple&#39;s </strong><strong>Object Pascal, with all objects allocated on the heap. </strong><strong>Previous versions of Turbo/Borland Pascal used a more C++ </strong><strong>like approach, with the ability to alocate objects on the </strong><strong>stack and statically. Can you explain the reasoning behind </strong><strong>this change in approach?</strong></p>
+<p>A. It really is a question of features vs. complexity. The philosophy of Delphi&#39;s Object Pascal language is to deliver the RIGHT set of language features, as opposed to any language feature ever known to mankind. It&#39;s the well known 80/20 rule: You can get 80% of the power for 20% of the complexity, but squeezing out that last 20% of power makes the whole thing five times as complex to program. Mixing static and dynamic allocation of objects is one of those features that fall into the latter group. By implementing a pure reference model we were able to simplify the entire Delphi component library, and do away with a lot of the pointer management that plagues other products. Even though Delphi objects are allocated on the heap, in a typical Delphi application you never have to deal with allocating and freeing them.</p>
+<p><strong>Q. I find this answer quite surprising and counter-intuitive. </strong><strong>You had already implemented mixed static/dynamic allocation, </strong><strong>and therefore presumably cracked the problems involved, so </strong><strong>why go to the trouble to revert to the Apple Object Pascal </strong><strong>approach which you had initially rejected? Is, say, a stack </strong><strong>allocated object, with constructors and destructors </strong><strong>automatically called as the thing moves in and out of scope, </strong><strong>really more complex than a heap allocated object, where you </strong><strong>must make special provision to kill the thing off at the end </strong><strong>of its life? I would have thought that the fact that the </strong><strong>component library *mostly* frees objects automatically but </strong><strong>*sometimes* doesn&#39;t would tend to add to rather than reduce </strong><strong>the application programmer&#39;s burden. Also, the change in </strong><strong>model must confuse both existing BP programmers and also </strong><strong>migrating C++ users.</strong></p>
+<p>A. Again, we didn&#39;t revert to anything because we really started with a clean slate. Our class reference model is sufficiently powerful and flexible, so having only one sort of class is actually an advantage. Once you give someone two ways to do the same thing, you have made your product less usable and you have to now help them understand when to use a statically allocated class versus a dynamically allocated one. We&#39;re quite happy with the choice we&#39;ve made. It&#39;s simple to understand, efficient, and allows us to add garbage collection in some future release. And, of course, if you&#39;ve got old code from BP7 that uses old style objects, you can still compile it from within Delphi.</p>
+<p><strong>Q. Exception-handling - what were the major influences on your </strong><strong>design?</strong></p>
+<p>A. We looked at a number of languages and implementations, and were most influenced by C++ and Modula-3. Delphi is like C++ in that exceptions are classes, but more like Modula-3 in terms of the supporting language constructs.</p>
+<p>Exceptions are a quiet revolution--they truly simplify the way you write code. For the most part you can write your code as if errors will never occur, instead of spending the bulk of your time trying to determine if an error occurred, and if so, how best to clean up and back out of what you were doing. Delphi&#39;s Visual Component Library was designed from the ground up with exception handling built in, and that is a large part of the reason why Delphi and applications written in Delphi are so fault tolerant. One of my favorite demos is a little two-liner that, on the click of a button, assigns NIL to a pointer, and then dereferences the pointer. Each time you click the button, Delphi reports that a General Protection Fault exception has occurred, but because of the built-in exception handling logic, the app keeps running instead of bringing itself down.</p>
+<p><strong>Q. I&#39;d like to draw you out a bit to expand the answer above with a few specifics.</strong></p>
+<p>A. As in C++, an exception in Delphi is simply a class, which means you can take advantage of the inheritance mechanism to handle whole sets of exceptions easily. For example, Delphi declares the following classes which deal with floating-point exceptions:</p>
+<p><span style="font-family: &#39;courier new&#39;, courier;">type</span><br /><span style="font-family: &#39;courier new&#39;, courier;">&#0160;EMathError = class(Exception);</span><br /><span style="font-family: &#39;courier new&#39;, courier;">&#0160;EInvalidOp = class(EMathError);</span><br /><span style="font-family: &#39;courier new&#39;, courier;">&#0160;EZeroDivide = class(EMathError);</span><br /><span style="font-family: &#39;courier new&#39;, courier;">&#0160;EOverflow = class(EMathError);</span><br /><span style="font-family: &#39;courier new&#39;, courier;">&#0160;EUnderflow = class(EMathError);</span></p>
+<p>As you can see, EMathError is the ancestor of the other exceptions. Here&#39;s an example of a TRY..EXCEPT statement that handles floating-point exceptions&#0160;</p>
+<p><span style="font-family: &#39;courier new&#39;, courier;">try</span><br /><span style="font-family: &#39;courier new&#39;, courier;">&#0160;PerformCalculations;</span><br /><span style="font-family: &#39;courier new&#39;, courier;">except</span><br /><span style="font-family: &#39;courier new&#39;, courier;">&#0160;on EZeroDivide do ...;</span><br /><span style="font-family: &#39;courier new&#39;, courier;">&#0160;on EMathError do ...;</span><br /><span style="font-family: &#39;courier new&#39;, courier;">end;</span></p>
+<p>If the PerformCalculations procedure raises an EZeroDivide exception, it is handled by the first handler. If it raises any other EMathError exception, the second handler takes care of it. Since there is no ELSE clause, no other exceptions are handled--they are instead propagated to an enclosing exception handler.</p>
+<p><strong>Q. Delphi&#39;s ability to handle GP faults is indeed one of it&#39;s neatest tricks. Was it difficult to implement?</strong></p>
+<p>A. It wasn&#39;t too bad, but it did take some nitfy use of TOOLHELP.DLL which implements the Windows low-level system tools interface. We basically register an interrupt callback function which maps processor faults into Delphi exceptions. The reason that it all works, though, is that VCL was engineered from the ground up to be exception aware. Because<br />of that, when a GP fault occurs and is mapped into an exception, the operation that was in progress will automatically know how to back out and clean itself up.</p>
+<p><strong>Q. Can we expect any other major syntax additions/changes, for example Eiffel style assertions?</strong></p>
+<p>A. We&#39;re always evaluating new language features, and surely there will be some in the upcoming 32-bit version. I&#39;d rathe not get into specifics, but as a rule, we don&#39;t really think about language extensions in the abstract. Instead we look at the language as part of a bigger picture (class library, component model, visual environment) that must evolve as a whole to support new technologies and improve ease of use.</p>
+<p><strong>Q. Can you give Delphi programmer&#39;s any guidance on how best to </strong><strong>write applications that will be portable to the 32-bit </strong><strong>version of Delphi? The new &quot;Cardinal&quot; data type has arrived </strong><strong>almost completely unnoticed. Are there any other issues we </strong><strong>should be aware of?</strong></p>
+<p>A. Delphi&#39;s Visual Component Library was designed with portability in mind. As long as you stay away from in-line assembler, 16-bit pointer atrithmetic, and Windows 3.1 API functions which aren&#39;t supported in the Win32 API, your apps should port with little or no modification.</p>
+<p>The Cardinal and Smallint types were introduced to facilitate portable code. Of the built-in types, Shortint, Smallint, Longint, Byte, and Word have identical representations in 16- and 32-bit code. The Integer and Cardinal types, on the other hand, represent the most efficient signed and unsigned integer types of the particular platform. In the 16-bit version they are 16-bit entities, and in the 32-bit version they are 32-bit entities. In general, you should use Integer and Cardinal whenever possible, and Shortint, Smallint, Longint, Byte, and Word only when the exact storage representation matters.</p>
+<p>Any 64K limitations found in the 16-bit version will disappear in the 32-bit version. For example, the 32-bit version allows you to declare arrays and allocate heap blocks of any size up to 4GB!</p>
+<p><strong>Q. What is the current state of the 32-bit version? Will it </strong><strong>support 16-bit VBXs, like BC++? Delphi 16-bit code runs </strong><strong>somewhat slower than C++ - are you doing anything about this f</strong><strong>or the 32-bit version?</strong></p>
+<p>A. Delphi was written to be portable--we&#39;ve been working on the 16- and 32-bit versions in parallel since day one. The 32-bit version is in field test now, and it will ship shortly after the commercial release of Windows 95. Yes, there is a foundation of 32-bit VBX support technology available in-house, but our primary focus is OCX controls. That&#39;s what the competition is working on, and that&#39;s where we see the market going. With respect to better code generation, Delphi-32 generates the same high-quality code as Borland C++ 4.5--in fact, they use the same optimizing back-end code generator.</p>
+<p><strong>Q. Are there any plans for Borland produced or badged add-ons </strong><strong>for Delphi, in addition to the Visual Solutions Pack?</strong></p>
+<p>A. We just released the RAD Pack for Delphi, which includes Turbo Debugger for Windows, Resource Workshop, the Resource Expert, Visual Component Library source code, the--much requested--Language Reference Manual, and Visual Solutions Pack 1.1. We did have some quality problems with the initial release of VSP, but those have been resolved, and we now have a Companion Products group to provide Borland-quality add-ons, such as Notes support for Delphi programmers and other often requested components.</p>
+<p><strong>Q. Delphi is a terrific tool for rapidly developing state of the </strong><strong>art software, but a number of shareware authors have </strong><strong>expressed a wish that executables could be made smaller. Is </strong><strong>it technically feasible to create a DLL-based version of VCL? </strong><strong>Surely this must be possible since COMPLIB is a DLL which is </strong><strong>used by the Delphi design environment?</strong></p>
+<p>A. It&#39;s something we&#39;re looking at, and certainly some of the 16-bit complexities with respect to multiple DLL clients are gone in 32-bit land. At this point I can&#39;t really comment on specific solutions, other than to say that we&#39;re actively looking at ways to make our executables even smaller.</p>
+<p><strong>Q. A long-standing and major criticism of Borland Pascal is the </strong><strong>proprietary nature of the object file format. It&#39;s </strong><strong>appreciated that going to the OBJ file format would be a </strong><strong>retrograde step, but why won&#39;t Borland at least document the </strong><strong>file format? That way, developers can create their own tools </strong><strong>such as disassemblers, C to Pascal linkers and so forth. </strong><strong>Again, it&#39;s understood that the file format changes with each </strong><strong>release of the compiler, but documenting the changes with </strong><strong>each new version would enable other developers to create </strong><strong>conversion tools even if Borland don&#39;t want to do this. At </strong><strong>the moment, if you don&#39;t have the source code, all your units </strong><strong>become useless each time the compiler is updated.</strong></p>
+<p>A. We&#39;re well aware of these issues, and the 32-bit version will address them in a number of ways. What I can tell you at this point is that the 32-bit compiler has an option to produce<br />.OBJ files, which can be linked with .OBJ files produced by other compilers.</p>
+<p><strong>Q. A related issue: the move to Windows has diluted the </strong><strong>importance of the OBJ issue, because you can now call DLLs. </strong><strong>But the Delphi user has still to translate the (typically) </strong><strong>C/C++ headers into Delphi import units, an exercise which is </strong><strong>at best tedious and time consuming and, if you happen not to </strong><strong>have had C++ experience, quite hard. It&#39;s the sort of job </strong><strong>best left to a machine. Given that Borland has a lot of C++ </strong><strong>parsing expertise lying around on the ground, have there ever </strong><strong>been any plans to create such a tool?</strong></p>
+<p>A. Well, I&#39;m not sure which C/C++ headers you&#39;re talking about.<br />We&#39;ve already translated all the Windows and OLE 2 API header files, and corresponding interface units are included with Delphi. But you&#39;re right, if you have a 3rd party DLL that was previously only interfaced to C/C++, somebody will have to do the translation. Usually, it&#39;s not that bad and I think you&#39;ll see an increasing number of vendors providing Delphi interface files for their DLLs. Also, I think you&#39;ll see more and more products take advantage of the OLE 2 ITypeLib and ITypeInfo interfaces, and we&#39;ll provide a tool that takes that information and produces a Delphi interface unit.</p>
+<p><strong>Q. The ability to create a single EXE for redistribution is very </strong><strong>attractive, but somewhat spoilt by the need to include the </strong><strong>BDE with database applications, even if they only want to </strong><strong>access the odd DBF. Any plans to clean this up?</strong></p>
+<p>A. We&#39;re working with several third parties, including SAX Software, Eschelon Development, Sterling Software, Great Lakes Software, and Shoreline Software. They have, or will soon have, products to help you deploy your Delphi database applications. In addition, we&#39;re making a deployment kit available, via CompuServe and Internet.</p>
+<p><strong>Q. Also on data access: is it possible to modify/inherit from </strong><strong>the data access controls to provide, for example, &#39;native&#39; </strong><strong>access to FoxPro/Clipper databases? If so, are any such </strong><strong>products being developed by Borland or Third Parties?</strong></p>
+<p>A. I know of several Third Parties working on native access to FoxPro/Clipper as well as B-Trieve. Some of them are in beta at this point. You can contact them for additional information on the DELPHI CompuServe forum or find out about them in the Delphi &quot;Power Tools&quot; catalog.</p>
+<p>Just to clarify: Sax, Eschalon, Sterling etc do install/setup tools that work with Delphi and the Borland Database Engine. There are other companies creating components that provide direct access to BTrieve, Fox, and other database formats.</p>
+<p><strong>Q. What is Delphi&#39;s main niche in the developer tools market? Compared with, say, Visual Basic, PowerBuilder and C++?</strong></p>
+<p>A. Delphi is a general purpose Windows RAD (Rapid Application Development) tool. The point is that Delphi is NOT a niche tool. From the onset, we&#39;ve designed Delphi to be able to take you from prototype to production, be that whether you&#39;re targetting a Client/Server environment or just writing a Windows application. I hear our competitors say that you can use their tool for rapid prototyping, and then port your app to C++ for production. But you know, rapid application development isn&#39;t really rapid unless you can go from prototype to production, all using the same tool! I also hear how competing products will address performance issues by generating C or C++ source code. This idea of building the application with one tool, and then having it generate C or C++ source files that have to be run through another tool, is ludicrous. How are you expected to debug the final code? Requiring users to find bugs in machine generated C++ code, and understand how that maps to the original 4GL code, just doesn&#39;t make sense. We&#39;ve been shipping development environments with integrated compilers for 12 years--I think the time is gone when programmers would accept anything else.</p>
+<p><strong>Q. How have Borland&#39;s recent troubles affected Delphi&#39;s development and its take-up? Was the absence of a Language Reference Manual in the initial product a consequence of these troubles? </strong>(<em>You had to mention the Language Reference Manual?&#0160; My mistake, I&#39;m sorry! --Zack)</em></p>
+<p>A. In the two years we were developing Delphi, the company did go through some difficult times. That was all resolved before we shipped. Now the entire company is focused on development tools, we&#39;ve won the Lotus lawsuit, we&#39;ve launched Delphi and Delphi Client/Server worldwide, and both products continue to sell well above expectations. In fact, I understand that Gray Matter reports that Delphi is the #1 selling development tool in the UK. The Delphi development team is 100% intact, and focused on Delphi for Windows 95.</p>
+<p>We really underestimated the demand for the Language Reference Manual. <em>(You&#39;re telling me! --Zack)</em>&#0160; It will be included in Delphi for Windows 95. Meanwhile, we&#39;ve made good by uploading an Adobe Acrobat version to CompuServe and our WWW page, and a printed version is now also available from Borland.</p>
+<p><strong>Q. We are all pleased you resisted the opportunity to christen a product Power Visual Turbo Pascal Objects for Windows - but how did it come to be called `Delphi&#39;?</strong></p>
+<p>A. We actually tried to call it &quot;Power Visual Turbo Pascal Objects for Windows&quot;, but that name was already trademarked :-). One of the senior guys in QA (Danny Thorpe) dreamed up Delphi as a code name quite early on, and everytime we did a market survey of product name candidates, everyone said &quot;well, those are ok, but we really like `Delphi&#39;&quot;. So in the end, we kept it.</p>
+<p><strong>Q. Which part of Delphi are you most proud of? ... and which part least?</strong></p>
+<p>A. The thing I&#39;m the least proud of is probably the initial lack of a Language Reference Manual. But that&#39;s taken care of now. <em>(Dammit, I said I was sorry already! --Zack)</em></p>
+<p>What I&#39;m most proud of is the fact that the energy we invested in foundation technologies like extensibility and exception handling enabled us to build Delphi in itself. Can<br />you imagine VB or PowerBuilder written in themselves? By building Delphi in Delphi, we really got to feel on our own bodies what was right about the product, and what needed fixing. I sometimes hear frustrated users comment &quot;The programmers that wrote this %&amp;##$ thing should be forced to use it themselves!&quot;. Well, we did, and we&#39;re really proud of the result.</p>
+<p><strong>-------- CHRONOLOGY --------</strong></p>
+<ul>
+<li><strong>1960</strong> Anders born in Copenhagen, Denmark.</li>
+<li><strong>1979</strong> Enrolls at the Danish Engineering Academy. Co-founds PolyData, one of the first Danish microcomputer companies.</li>
+<li><strong>1980</strong> Releases his first Pascal compiler--a 12K Pascal subset in ROM for the British NASCOM Z-80 based kit computer. Eventually sells the rights to this product to Lucas Logic.</li>
+<li><strong>1982</strong> PolyPascal for CP/M-80 released. Product is now a complete implementation of the Pascal language.</li>
+<li><strong>1983</strong> Sells the Borland founders (Niels Alex Jensen, Ole Henriksen, Mogens Glad, and Philippe Kahn) on the idea of a Pascal compiler with an integrated editor. In November releases Turbo Pascal 1.0 for CP/M-80, CP/M-86, and MS-DOS. The newly formed Borland company, essentially penniless, places an advert for Turbo Pascal in Byte, bluffing the Byte Ad executives into giving them credit. The compiler is priced at $49.95 and is an instant smash hit.</li>
+<li><strong>1986</strong> Turbo Pascal 4.0 released, featuring an Integrated Devlopment Environment--the first of its kind for the PC environment--and introducing modular compilation (previously Turbo Pascal programs had to be compiled all in one go and could be no larger than 64K unless overlays were used). CP/M support is dropped.</li>
+<li><strong>1988</strong> Turbo Pascal 5.0 released, featuring integrated debugging and VROOMM (Virtual Runtime Object Oriented Memory Manager) overlay management technology.</li>
+<li><strong>1989</strong> In response to Microsoft&#39;s object oriented QuickPascal, Borland releases Turbo Pascal 5.5, which has its own OOP extensions. Microsoft later drops QuickPascal from its product line.</li>
+<li><strong>1990</strong> Turbo Pascal 6.0 features a new, much improved Integrated Development Environment, and includes the Turbo Vision object-oriented application framework.</li>
+<li><strong>1991</strong> First release of Turbo Pascal for Windows. Features a Windows hosted IDE and the ObjectWindows Library (also known as OWL).</li>
+<li><strong>1992</strong> Borland Pascal 7.0 includes both a DOS and a Windows hosted IDE, and allows developers to target DOS, DOS Protected Mode, and Windows.</li>
+<li><strong>1995</strong> Delphi and Delphi Client/Server released on schedule on February 14th.</li>
+</ul>
+<p>--------</p>
+<p><em>This interview originally appeared in EXE, the UK&#39;s leading programming </em><em>magazine. If someone can send me a .EXE cover or logo, that is appreciated!<br /></em><em>Thanks to Ben Riga for sending it to me. Thanks for also not mentioning the Language Reference Manual.</em></p>
+			</div>
+			
+
+			
+
+
+
+
+
+<hr />
+
+
+<div class="entry-footer">
+          <p class="entry-footer-info font-entryfooter"><span class="post-footers">Posted at 12:27 AM in <a href="https://www.theopenforce.com/hot_companies/">Hot Companies</a>, <a href="https://www.theopenforce.com/news/">News</a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.theopenforce.com/2020/02/anders-hejlsberg-delphi-1995.html">Permalink</a>
+
+ 
+	<span class="separator"> | </span>
+	
+			 <a class="entry-comments" href="https://www.theopenforce.com/2020/02/anders-hejlsberg-delphi-1995.html#comments">Comments (0)</a>
+	
+
+
+          </p>
+
+
+          <!-- technorati tags -->
+
+    
+    <p class="entry-footer-tags font-entryfooter">
+        Tags:
+        .EXE, Anders Hejlsberg, Delphi, Delphi25, Will Watts
+    </p>
+    
+
+
+
+          <!-- post footer links -->
+	<p class="entry-footer-share entry-footer-share-buttons">
+		<span class="entry-footer-links-reblog"><a href="#" class="share-link share-link-reblog" title="Grab this post for your own blog" onclick="b=document.body; TYPEPAD___bookmarklet_domain='https://www.typepad.com/'; TYPEPAD___reblog_entryxid='6a00d83452e46469e20240a50b2ebc200b'; TYPEPAD___is_reblog = 1; if (b &amp;&amp; !document.xmlVersion) { void ( z=document.createElement('script')); void(z.type='text/javascript'); void(z.src='https://static.typepad.com/.shared/js/qp/loader-combined-min.js'); void(b.appendChild(z));}else{}">Reblog
+ (0)
+</a>
+</span>
+	</p>
+
+
+</div>
+
+
+</article>
+ 
+
+
+
+
+
+
+
+   <div class="bottom-featured">   </div>
+
+
+       
+       
+       <div class="pager-bottom pager-entries pager content-nav">
+                <div class="pager-inner">
+                        
+
+                        
+                        <a href="https://www.theopenforce.com/page/2/">
+                        <span class="pager-right">
+                        <span class="pager-label">Next</span>
+                        <i class="fas fa-arrow-circle-right"></i> 
+                        </span></a>
+                        
+                </div>
+        </div>
+        
+        
+ 
+
+
+                    </div></div>
+                </div>
+                <div class="col-sm-4">
+
+                    <aside class="widgets">
+                      <div class="widgets-inner">
+<div class="module-calendar module">
+	<h2 class="module-header">April 2020</h2>
+	<div class="module-content table-responsive">
+		<table class="table" summary="Monthly calendar with links to each day's posts">
+                        <tr>
+                                                                 <th>Sun</th>
+                                                                 <th>Mon</th>
+                                                                 <th>Tue</th>
+                                                                 <th>Wed</th>
+                                                                 <th>Thu</th>
+                                                                 <th>Fri</th>
+                                                                 <th>Sat</th>
+                                
+                        </tr>
+                                                   <tr>
+                                        <td>&nbsp;</td>
+                                
+                                                   
+                                        <td>&nbsp;</td>
+                                
+                                                   
+                                        <td>&nbsp;</td>
+                                
+                                                   
+                                        <td>1</td>
+                                
+                                                   
+                                        <td>2</td>
+                                
+                                                   
+                                        <td>3</td>
+                                
+                                                   
+                                        <td>4</td>
+                                </tr>
+                                                   <tr>
+                                        <td>5</td>
+                                
+                                                   
+                                        <td>6</td>
+                                
+                                                   
+                                        <td>7</td>
+                                
+                                                   
+                                        <td>8</td>
+                                
+                                                   
+                                        <td>9</td>
+                                
+                                                   
+                                        <td>10</td>
+                                
+                                                   
+                                        <td>11</td>
+                                </tr>
+                                                   <tr>
+                                        <td>12</td>
+                                
+                                                   
+                                        <td>13</td>
+                                
+                                                   
+                                        <td>14</td>
+                                
+                                                   
+                                        <td><a href="https://www.theopenforce.com/2020/04/solstice-run.html">15</a></td>
+                                
+                                                   
+                                        <td>16</td>
+                                
+                                                   
+                                        <td>17</td>
+                                
+                                                   
+                                        <td>18</td>
+                                </tr>
+                                                   <tr>
+                                        <td>19</td>
+                                
+                                                   
+                                        <td>20</td>
+                                
+                                                   
+                                        <td>21</td>
+                                
+                                                   
+                                        <td>22</td>
+                                
+                                                   
+                                        <td>23</td>
+                                
+                                                   
+                                        <td>24</td>
+                                
+                                                   
+                                        <td>25</td>
+                                </tr>
+                                                   <tr>
+                                        <td>26</td>
+                                
+                                                   
+                                        <td>27</td>
+                                
+                                                   
+                                        <td>28</td>
+                                
+                                                   
+                                        <td>29</td>
+                                
+                                                   
+                                        <td>30</td>
+                                
+                                                   
+                                        <td>&nbsp;</td>
+                                
+                                                   
+                                        <td>&nbsp;</td>
+                                </tr>
+                        
+		</table>
+	</div>
+</div>
+<div class="module-categories module">
+	<h2 class="module-header"><a href="https://www.theopenforce.com/archives.html">Categories</a></h2>
+	<div class="module-content">
+                   <ul class="module-list">
+
+<span class="group">
+                        <li class="module-list-item"><a href="https://www.theopenforce.com/books/">Books</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.theopenforce.com/business/">Business</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.theopenforce.com/hot_companies/">Hot Companies</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.theopenforce.com/misc/">Misc</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.theopenforce.com/news/">News</a></li>
+</span>
+
+<span class="group">
+                        <li class="module-list-item"><a href="https://www.theopenforce.com/technology/">Technology</a></li>
+</span>
+		</ul>
+
+<a style="font-size:85%;display:none;" class="cat-more" href="https://www.theopenforce.com/archives.html">See More</a>
+	</div>
+</div>
+<!-- list_inlcude.tt  -->
+<div id="" class="module-typelist module">
+<h2 class="module-header"></h2>
+	<div class="module-content">
+		<ul class="module-list">
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+	<div class="module-archives module">
+		<h2 class="module-header">Recent Posts</h2>
+		<div class="module-content">
+			<ul class="module-list">
+				
+									<li class="module-list-item"><a href="https://www.theopenforce.com/2020/04/solstice-run.html">Solstice Run - June 20</a></li>
+					
+				
+									<li class="module-list-item"><a href="https://www.theopenforce.com/2020/03/managing-during-a-crisis.html">Managing During a Crisis</a></li>
+					
+				
+									<li class="module-list-item"><a href="https://www.theopenforce.com/2020/02/launching-delphi.html">Launching Delphi - Feb 14, 1995</a></li>
+					
+				
+									<li class="module-list-item"><a href="https://www.theopenforce.com/2020/02/delphi-birth.html">Delphi Informant: Giving Birth</a></li>
+					
+				
+									<li class="module-list-item"><a href="https://www.theopenforce.com/2020/02/danny-thorpe-why-the-name-delphi.html">Danny Thorpe: Why The Name "Delphi?"</a></li>
+					
+				
+									<li class="module-list-item"><a href="https://www.theopenforce.com/2020/02/anders-hejlsberg-delphi-1995.html">.EXE Interview with Anders Hejlsberg on Delphi (1995)</a></li>
+					
+				
+									<li class="module-list-item"><a href="https://www.theopenforce.com/2020/01/san-francisco-is-breaking-my-heart.html">San Francisco is Breaking My Heart</a></li>
+					
+				
+									<li class="module-list-item"><a href="https://www.theopenforce.com/2020/01/general-magic.html">General Magic</a></li>
+					
+				
+									<li class="module-list-item"><a href="https://www.theopenforce.com/2019/06/woz.html">iWoz - Steve Wozniak</a></li>
+					
+				
+									<li class="module-list-item"><a href="https://www.theopenforce.com/2019/05/more-tech-ipos.html">More Tech IPOs</a></li>
+					
+				
+			</ul>
+		</div>
+	</div>
+	<div class="module-archives module">
+		<h2 class="module-header"><a href="https://www.theopenforce.com/archives.html">Archives</a></h2>
+		<div class="module-content">
+												<ul class="module-list">
+				
+				<li class="module-list-item"><a href="https://www.theopenforce.com/2020/04/index.html">April 2020</a></li>
+				
+							
+				<li class="module-list-item"><a href="https://www.theopenforce.com/2020/03/index.html">March 2020</a></li>
+				
+							
+				<li class="module-list-item"><a href="https://www.theopenforce.com/2020/02/index.html">February 2020</a></li>
+				
+							
+				<li class="module-list-item"><a href="https://www.theopenforce.com/2020/01/index.html">January 2020</a></li>
+				
+							
+				<li class="module-list-item"><a href="https://www.theopenforce.com/2019/06/index.html">June 2019</a></li>
+				
+							
+				<li class="module-list-item"><a href="https://www.theopenforce.com/2019/05/index.html">May 2019</a></li>
+				
+							
+				<li class="module-list-item"><a href="https://www.theopenforce.com/2018/08/index.html">August 2018</a></li>
+				
+							
+				<li class="module-list-item"><a href="https://www.theopenforce.com/2018/04/index.html">April 2018</a></li>
+				
+							
+				<li class="module-list-item"><a href="https://www.theopenforce.com/2017/06/index.html">June 2017</a></li>
+				
+							
+				<li class="module-list-item"><a href="https://www.theopenforce.com/2017/02/index.html">February 2017</a></li>
+									</ul>
+									<p class="module-more"><a href="https://www.theopenforce.com/archives.html">More...</a></p>
+				
+				
+			
+		</div>
+	</div>
+
+<div class="module-widget module" id="widget-Amazon_com_Widgets_amazon_express_yourself_widget1184644831301">
+	<div class="module-content">
+    	<script charset="utf-8"  type="text/javascript">function createItem(_asin, _comment) {var item = new Object();item.asin = _asin;item.comment = _comment;amzn_wdgt.items[amzn_wdgt.items.length] = item;}</script><script charset="utf-8" type="text/javascript">var amzn_wdgt = new Object();amzn_wdgt.tag = 'valleyofthegeeks';amzn_wdgt.templateId=8001;amzn_wdgt.marketPlace = "US";amzn_wdgt.show_image = true;amzn_wdgt.show_price = true;amzn_wdgt.show_review = true;amzn_wdgt.width = 150;amzn_wdgt.rows = 10;amzn_wdgt.cols = 1;amzn_wdgt.serviceVersion = "20061125" ;amzn_wdgt.title = 'TheOpenForce Picks';amzn_wdgt.outer_bkgd_color="#DEDEDE";amzn_wdgt.head_text_color="#000000";amzn_wdgt.inner_bkgd_color="#FFFFFF";amzn_wdgt.text_color="#000000";amzn_wdgt.border_color="#636363";amzn_wdgt.price_color="#090C66";amzn_wdgt.displayTemplate="7";amzn_wdgt.items = new Array();createItem('0060833459',['']);createItem('0316491977',['']);createItem('0887309968',['']);createItem('1591840562',['']);createItem('0786881631',['']);createItem('0596007191',['']);createItem('0066620732',['']);createItem('159059505X',['']);createItem('0672328127',['']);createItem('0672327651',['']);</script><script charset="utf-8" type="text/javascript" src="https://wms.assoc-amazon.com/US//js/widgets.js"></script>
+	</div>
+</div><!-- list_inlcude.tt  -->
+<div id="copyright" class="module-typelist module">
+<h2 class="module-header">Copyright</h2>
+	<div class="module-content">
+		<ul class="module-list">
+							<li class="module-list-item">Copyright (c) 2005-2020 M. Zack Urlocker<br /></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<!-- about page link -->
+<div class="module-about module">
+	<h2 class="module-header"><a
+		href="https://zurlocker.typepad.com/about.html">About</a></h2>
+</div>
+<div class="module-email module">
+	<div class="module-content">
+		<script type="text/javascript">
+<!--
+document.write('<a href="ma' + 'ilto:&#122;&#117;&#114;&#108;&#111;&#99;&#107;&#101;&#114;&#64;&#104;&#111;&#116;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">Email Me</a>');
+// -->
+</script>
+
+	</div>
+</div>
+<div class="module-syndicate module">
+	<div class="module-content">
+	<a href="https://www.theopenforce.com/atom.xml"><i class="fas fa-rss"></i> Subscribe to this blog's feed</a>
+	</div>
+</div>
+<!-- list_inlcude.tt  -->
+<div id="links" class="module-typelist module">
+<h2 class="module-header">Links</h2>
+	<div class="module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><a href="http://www.businessreviewonline.com/os/" >CBR Open Source WebLog</a></li>
+							<li class="module-list-item"><a href="http://danbricklin.com/log/" >Dan Bricklin</a></li>
+							<li class="module-list-item"><a href="http://www.feld.com/blog" >Feld Thoughts</a></li>
+							<li class="module-list-item"><a href="http://blog.guykawasaki.com/" >Guy Kawasaki</a></li>
+							<li class="module-list-item"><a href="http://www.joelonsoftware.com/" >Joel on Software</a></li>
+							<li class="module-list-item"><a href="http://radar.oreilly.com/" >O'Reilly Radar</a></li>
+							<li class="module-list-item"><a href="http://www.ondisruption.com" >On Disruption</a></li>
+							<li class="module-list-item"><a href="http://stephesblog.blogs.com/my_weblog/" >Once more into the breach</a></li>
+							<li class="module-list-item"><a href="http://www.opensources.com/" >Open Sources</a></li>
+							<li class="module-list-item"><a href="http://www.planetmysql.org" >Planet MySQL</a></li>
+							<li class="module-list-item"><a href="http://jeffnolan.com/wp/" >Venture Chronicles</a></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<!-- list_inlcude.tt  -->
+<div id="google" class="module-typelist module">
+<h2 class="module-header">Google</h2>
+	<div class="module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><a href="" ></a><br /><script type="text/javascript"><!--
+google_ad_client = "pub-2699372841909715";
+google_ad_width = 160;
+google_ad_height = 600;
+google_ad_format = "160x600_as";
+google_ad_type = "text_image";
+google_ad_channel ="5313158472";
+google_color_border = "CCCCCC";
+google_color_bg = "FFFFFF";
+google_color_link = "000000";
+google_color_url = "666666";
+google_color_text = "333333";
+//--></script>
+<script type="text/javascript" src="https://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<!-- list_inlcude.tt  -->
+<div id="other_blogs" class="module-typelist module">
+<h2 class="module-header">Other Blogs</h2>
+	<div class="module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><a href="http://www.guitarvibe.com" >GuitarVibe</a><br /></li>
+							<li class="module-list-item"><a href="http://yakwhisperer.com" >The Yak Whisperer</a><br /></li>
+							<li class="module-list-item"><a href="https://www.theopenforce.com">The Open Force</a><br /></li>
+							<li class="module-list-item"><a href="http://zurlocker.typepad.com/mary/" >Tuesdays With Mary</a><br /></li>
+							<li class="module-list-item"><a href="http://www.valleyofthegeeks.com" >Valley of the Geeks</a><br /></li>
+							<li class="module-list-item"><a href="http://www.z-machine-matter.com" >Z-Machine Matter</a><br /></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<!-- list_inlcude.tt  -->
+<div id="guitarcenter" class="module-typelist module">
+<h2 class="module-header">Guitarcenter</h2>
+	<div class="typelist-plain module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><div class="typelist-note-label"><script type="text/javascript" language="javascript" src="https://www.anrdoezrs.net/placeholder-3228800?target=_blank&mouseover=Y"></script></div><div class="typelist-note"></div></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+
+                      </div>
+                    </aside>
+
+
+                </div>
+            </div>
+
+     
+
+
+<!-- footer -->
+<div id="footer">
+<div class="row well"><div class="col-md-12">
+        <div id="footer-inner">
+          <!-- not attag.weblog footer html -->
+                <ul class="footer-list pkg list-inline font-footer" >
+                        <li class="footer-list-item"><a href="https://www.theopenforce.com/">TheOpenForce.com</a> &bull; </li>
+                        <li class="last-footer-list-item footer-list-item"><a href="http://www.typepad.com/">Powered by Typepad</a></li>
+                </ul>
+        </div>
+        <a href="#top" id="toplink"><div id="footer-toplink">
+           <div id="footer-arrow"><i class="fas fa-arrow-circle-up"></i></div>
+           <div id="footer-top"><span class="footer-top-inner font-footer">Top</span></div>
+        </div></a>
+</div></div>
+</div>
+
+
+     <!-- foot-scripts -->
+          <!-- foot-scripts-1 -->
+    <script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
+
+    <script src="https://static.typepad.com/.shared/themes/common/bootstrap/js/bootstrap.min.js"></script>
+
+
+
+
+
+          
+
+
+
+
+
+          <!-- foot-scripts-2 -->
+    <script src="https://static.typepad.com/.shared/js/classie.js"></script>
+    <script src="https://static.typepad.com/.shared/js/sidebarEffects.js"></script>
+    <script src="https://static.typepad.com/.shared/js/jquery.masonry.min.js"></script>
+    <script src="https://static.typepad.com/.shared/js/imagesloaded.pkgd.min.js"></script>
+    <script src="https://static.typepad.com/.shared/js/jquery.livequery.min.js"></script>
+<script>
+    var j = $.noConflict(true);
+
+
+
+function check_css_size() {
+    if (j("#mysize").css("float") == "right" ){ mod_pos = 'side'; }
+    else if (j("#mysize").css("float") == "none" ){ mod_pos = 'bottom'; }
+}
+
+
+
+        // SCROLL TO TOP
+        (function($) {
+          j('a[href*=#]:not([href=#])').click(function() {
+            if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+              var target = j(this.hash);
+              target = target.length ? target : j('[name=' + this.hash.slice(1) +']');
+              if (target.length) {
+                j('html,body').animate({
+                  scrollTop: target.offset().top
+                }, 1000);
+                return false;
+              }
+            }
+          });
+        })(jQuery);
+
+        // PREV/NEXT ON IA
+        (function($) {
+        j(window).scroll(function() {
+            if (j(this).scrollTop()) {
+                j('#previous_story:hidden').stop(true, true).fadeIn();
+                j('#next_story:hidden').stop(true, true).fadeIn();
+            } else {
+                j('#previous_story').stop(true, true).fadeOut();
+                j('#next_story').stop(true, true).fadeOut();
+            }
+        });
+        })(jQuery);
+
+
+        // SLIDE-IN NAV
+        (function($) {
+        j( ".close-side-menu" ).click(function() {
+            j('#st-container').removeClass('st-menu-open');
+        });
+        })(jQuery);
+
+         //MASONRY
+              
+
+function changeCols() {
+        (function($) {
+              
+                check_css_size();
+                if(mod_pos == 'bottom') {
+                   j('.widgets-inner').addClass('bottomwidgets');
+                     
+                 } else {
+                   j('.widgets-inner').removeClass('bottomwidgets');
+                 }
+              
+        })(jQuery);
+}//function
+
+j(document).ready(function($) {
+   changeCols();
+});
+
+j(window).resize(function( event ) {
+        changeCols();
+});
+
+
+(function($) {
+  j(window).load(function(){
+        var $ctCollContainer = j('.widgets-inner');
+
+           j('.twitter-timeline').closest( ".module" ).height('300px');
+           j('.fb_iframe_widget').closest( ".module" ).height('230px');
+
+           $ctCollContainer.imagesLoaded( function(){
+              $ctCollContainer.masonry({
+                    itemSelector: '.module',
+                    "gutter": 20,
+               });
+
+               var msnry = $ctCollContainer.data('masonry');
+
+               msnry.on( 'layoutComplete', function( msnryInstance, laidOutItems ) {
+                 //console.log('Masonry layout completed on ' + laidOutItems.length + ' items');
+                    
+               });
+
+               msnry.layout();
+                $ctCollContainer.masonry('reloadItems');
+
+            });//end imagesloaded
+      });
+})(jQuery);
+
+
+
+//banner image loaded
+        (function($) {
+        bg = j('#banner').css('background-image');
+
+       if (bg && bg !='none') {
+         var src = bg.replace(/(^url\()|(\)$|[\"\'])/g, '');
+           $img = j('<img>').attr('src', src).on('load', function() {
+              j('#banner-title, #banner-desc').show();
+           });
+        } else {
+              j('#banner-title, #banner-desc').show();
+        }
+        })(jQuery);
+
+//default highlight bar from theme colors
+
+function hexToRgb(hex) {
+   var result = /^#?([a-f\d]{2})([a-f\d]{2})([a-f\d]{2})$/i.exec(hex);
+    r = parseInt(result[1], 16);
+    g = parseInt(result[2], 16);
+    b = parseInt(result[3], 16);
+    j('.overlay-text').css('background', 'rgba(' + r + ',' + g + ',' + b + ',0.7)');
+}
+hexToRgb("#FFFFFF");
+
+
+//nav-highlight
+(function($){
+  j('.navtext a').each(function() {
+    if (j(this).prop('pathname') == window.location.pathname) {
+      j(this).addClass('currentnav');
+    }
+  });
+})(jQuery);
+
+        </script>
+
+        </div>
+
+    </main>
+
+<div id="mysize" style="display: none"></div>
+
+<script type="text/javascript">
+<!--
+var extra_happy = Math.floor(1000000000 * Math.random());
+document.write('<img src="https://www.typepad.com/t/stats?blog_id=171963&amp;user_id=422856&amp;page=' + escape(location.href) + '&amp;referrer=' + escape(document.referrer) + '&amp;i=' + extra_happy + '" width="1" height="1" alt="" style="position: absolute; top: 0; left: 0;" />');
+// -->
+</script>
+
+
+
+<!-- Begin disqus Tag -->
+
+<!-- End disqus Tag -->
+</body>
+</html>
+
+
+
+<!-- ph=1 -->
